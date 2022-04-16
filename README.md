@@ -21,7 +21,7 @@ Balaji's Standford Startup Engineering Course
 Text Editor |emacs |Customizable with strong REPL integration.| vim, Textmate, nano, Visual Studio|
 |DVCS |git |Distributed version control champion. |hg, fossil|
 |DVCS Web UI| github |Dominant among web DVCS frontends. |bitbucket, google code, sourceforge|
-|Language| Javascript |The Next Big Language| Python, Ruby, Scala, Haskell, Go|
+|Language| Javascript |The Next Big Language.| Python, Ruby, Scala, Haskell, Go|
 |Macro Language |Coffeescript |Makes JS much more convenient to write. |Iced Coffeescript|
 |SSJS Interpreter| node.js |Async server-side JS implementation| v8, rhino|
 |Backend Web Framework| express |Most popular node.js| backend framework| Meteor, Derby|
